@@ -12,8 +12,8 @@ Este é um projeto desenvolvido durante o curso de responsividade da Alura. O ob
 
 **Como executar o projeto**
 
-. Clone este repositório
-. Abra o arquivo index.html em um navegador web
+1. Clone este repositório
+2. Abra o arquivo index.html em um navegador web
 
 **Funcionalidades do projeto**
 
