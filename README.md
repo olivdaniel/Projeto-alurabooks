@@ -1,5 +1,6 @@
 # Projeto-alurabooks
 Project about responsiveness developed in an Alura course.
+
 **Alurabooks: Projeto de Responsividade - Curso Alura**
 
 Este é um projeto desenvolvido durante o curso de responsividade da Alura. O objetivo do projeto é criar um layout responsivo para um site utilizando técnicas de design responsivo.
